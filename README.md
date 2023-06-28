@@ -1,4 +1,6 @@
-### Hi there 👋
+Olá, muito prazer!
+
+Meu nome é Guilherme Moreno e sou estudante de Análise e desenvolvimento de sistemas e também faço parte do GitHub.
 
 <!--
 **guimoreno96/guimoreno96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
