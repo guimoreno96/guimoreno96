@@ -1,0 +1,99 @@
+:root {
+--azul-claro: #4aadad;
+--bege:#e3d7b9;
+--azul-escuro: #0c0cd1;
+--verde-claro: #75b798;
+--prata: #e0dadc; 	
+}
+
+body {
+background-color: var(--verde-claro);
+}
+
+h1 {
+    background-color: var(--bege);
+}
+
+.form-check {
+    text-align: left;
+    color: black;
+    font-weight: bold;
+}
+
+.form-check {
+    border-bottom: black;
+}
+
+.box-acesso {
+font-family: Arial, Helvetica, sans-serif;
+font-weight: bold;
+text-align: center;
+width: 100%;
+left: 50%;
+position: fixed;
+top: 50%;
+transform: translate(-50%, -50%);
+max-width: 300px;
+color: black;
+}
+
+
+.imagem-logo-pessoa-stick {
+width: 80%;
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
+
+label {
+margin-top: 1em;
+}
+
+input {
+text-align: center;
+margin-top: 1em;
+}
+
+
+.botao-um-entrar {
+background-color: var(--bege);
+font-weight: bold;
+color: black;
+width: 100%;
+margin-top: 2em;
+border-color: var(--prata);
+transition: 300ms;
+}
+
+.botao-um-entrar:hover {
+background-color: var(--bege);
+border-color: var(--bege);
+filter: brightness(0.7);
+font-weight: bold;	
+color: black;
+}
+
+.redefinir-senha {
+margin-top: 2em ;
+text-align: center;
+}
+
+
+.botao-dois-nova-conta {
+width: 50%;
+font-weight: bold;
+margin: 1em 0 1em 0;
+background-color: var(--bege);
+border-color: var(--bege);
+color: black;
+transition: 300ms;
+
+}
+
+.botao-dois-nova-senha:hover {
+background-color: var(--bege);
+color: black;
+font-weight: bold;
+width: 50%;
+filter: brightness(0.8)
+}
